@@ -246,3 +246,33 @@ input{
     border-radius: 10px;
     
 }
+@media (max-width:768px){
+    .eart{
+        width: 356px;
+        height: 360px;
+    }
+    .toto{
+        display: none;
+    }
+    .to{
+        display: none;
+    }
+    *{
+        flex-wrap: wrap;
+    }
+    .otec{
+        margin-left: 0px;
+        flex-wrap: wrap;
+        display: none;
+    }
+    .buttons{
+        margin-left: 0px;
+    }
+    .center{
+        margin-left: 80px;
+    }
+    .greysect{
+        flex-wrap: wrap;
+        display: none;
+    }
+}
